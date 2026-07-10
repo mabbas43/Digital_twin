@@ -1,0 +1,21 @@
+{
+  "full_name": "Muhammad Abbas",
+  "name": "Muhammad",
+  "current_role": "Agentic AI Engineer",
+  "location": "Peshawar, Pakistan",
+  "email": "abbas7dd@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/mabbas04",
+  "specialties": [
+    "Agentic AI Systems (LangGraph, CrewAI, AutoGen)",
+    "LLMOps & RAG Pipelines",
+    "Multi-cloud AI Deployment (AWS, Azure, GCP)"
+  ],
+  "years_experience": 3,
+  "education": [
+    {
+      "degree": "BS Computer Science",
+      "institution": "University of Peshawar",
+      "year": "2026"
+    }
+  ]
+}

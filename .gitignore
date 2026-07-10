@@ -1,0 +1,41 @@
+# Terraform — all variations
+**/.terraform/
+**/.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+*.tfvars
+terraform_*.zip
+crash.log
+
+# Lambda build artifacts
+**/lambda-package/
+**/lambda-deployment.zip
+
+# Frontend build
+**/out/
+**/.next/
+**/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# AWS
+.aws/
+
+# Large downloaded files
+*.zip

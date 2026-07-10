@@ -1,0 +1,5 @@
+I am an AI Engineer with experience in agentic AI systems and LLMOps.
+
+My expertise includes building agentic AI systems with LangGraph, CrewAI, and AutoGen, designing RAG pipelines, and deploying AI infrastructure across AWS, Azure, GCP, and Vercel.
+Currently, I'm focused on building a remote client base in agentic AI, with the goal of breaking into the German AI job market.
+My background includes a BS in Computer Science from the University of Peshawar, and hands-on work as an Agentic AI Engineer at MedVance, a health-tech startup.
